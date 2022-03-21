@@ -6,24 +6,23 @@ Welcome to the GIS team's code interview! This small data challenge is designed 
 
 ## Getting started
 
-There are two ways for you to get started and submit your results of this chanllenge:
+There are two ways for you to get started and submit your results for this chanllenge:
 
 **1) GitHub**
-If you've you'd GitHub and would like to demostrate your skills, please follow the instructions below.
-To start this challenge, create a new **private** repo under your github username. We would like you to include all the code, notes, visualizations, and data inside of the repo. When you are done with the challenge, please provide read access to your repo by inviting `@SashaWeinstein`, `@mbh329`, `@AmandaDoyle`, `@croswell81`, and `@td928`.
+If you've used GitHub and would like to demostrate your GitHub skills, start this challenge by creating a new **private** repo under your github username. We would like you to include all the code, notes, visualizations, and data inside of the repo. When you are done with the challenge, please provide read access to your repo by inviting `@SashaWeinstein`, `@mbh329`, `@AmandaDoyle`, `@croswell81`, and `@td928`.
 > ⚠️ Note: **the repo has to be <ins>private</ins>, otherwise you will be automatically <ins>disqualified</ins>**. Also we will check your commit timestamp to only account for the first 48 hours of coding activities.
 
 **2) Zipped folder**
-If you have not used GitHub before or are unfarmiliar with it, that's okay.  Please store your source data, files, and outputs in a folder, zip it up, and email the file to Matt (mcroswe @ planning.nyc.gov).
+If you have not used GitHub before or are unfarmiliar with it, that's okay.  Please store your source data, files, and outputs in a folder, zip it up, and email the zipped folder to Matt (mcroswe @ planning.nyc.gov).
 
 ## What we are looking for
 
-Your code interview will be evaluated based on your repo or folder, so make sure all files you have are stored in your repo or folder. Specifically we are looking at:
+Your code interview will be evaluated based on your repo or folder, so make sure all files are stored in your repo or folder. Specifically we are looking at:
 
 - **Project scafolding**: How you name, manage, and organize your files.
 - **Reproducibility**:
-  - Ideally if it runs on your machine, it would also run on mine.
-  - Make sure you document any software dependency, and installation process.
+  - Ideally if your code runs on your machine, it would also run on mine.
+  - Make sure you document any software dependencies and installation processes.
 - **Code**:
   - Clean
   - Readable
@@ -37,7 +36,7 @@ Your code interview will be evaluated based on your repo or folder, so make sure
   - Feel free to open up issues for yourself / make pull requests and etc so that your code progress is captured and documented.
   - We highly **discourage** lumpped commits.
 - **Creativity**:
-  - If you do not know how to complete a task in Python, for example, but you do know how to complete the task using another tool, like Excel, Carto, or ArcGIS, please feel free to use the tool you know to complete the task.  
+  - If you do not know how to complete a task in Python, for example, but you do know how to complete the task using another tool, like Excel, Carto, or ArcGIS, please feel free to use the tools you know to complete the task.  
 
 
 ## Table of Content
@@ -74,7 +73,7 @@ Create a multi-line plot to show the total service request counts by `created_da
 
 ### Task 4: Spatial data processing
 
-At Data Engineering, we enhance datasets with geospatial attributes, such as point locations and administrative boundaries. To help us better understand the data from **Task 1**, we would like you to join the initial raw data to the **[2020 NTA (Neighborhood Tabulation Area) boundaries](https://www1.nyc.gov/site/planning/data-maps/open-data/census-download-metadata.page)** and create a choropleth map of 7 day total count by NTA of a specific `complaint_type` of your choice.
+Naturally, in the GIS team we work with a lot of spatial data and we enhance datasets with geospatial attributes, such as point locations and administrative boundaries. To help us better understand the data from **Task 1**, we would like you to join the initial raw data to the **[2020 NTA (Neighborhood Tabulation Area) boundaries](https://www1.nyc.gov/site/planning/data-maps/open-data/census-download-metadata.page)** and create a choropleth map of 7 day total count by NTA of a specific `complaint_type` of your choice.
 
 Depending on how you generate the map, you can store the map as a `.png` or `.html` under the `data` folder.
 
