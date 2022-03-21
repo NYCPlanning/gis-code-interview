@@ -2,7 +2,7 @@
 
 ## 👋 Hi there
 
-Welcome to the GIS team's code interview! This small data challenge is designed to help us evaluate and for you to showcase your skills in data processing, python, GitHub, and/or geospatial data processing. The challenge will go from easy to difficult.  There's no preassure to finish all the tasks; just try your best and get as far as you can!
+Welcome to the GIS team's code interview! This small data challenge is designed to help us evaluate and for you to showcase your skills in data processing, python or another coding language, GitHub, and/or geospatial data processing. The challenge will go from easy to difficult.  There's no preassure to finish all the tasks; just try your best and get as far as you can!
 
 ## Getting started
 
@@ -36,6 +36,9 @@ Your code interview will be evaluated based on your repo or folder, so make sure
   - We want to see how you manage a multi-part project and how you break down the tasks.
   - Feel free to open up issues for yourself / make pull requests and etc so that your code progress is captured and documented.
   - We highly **discourage** lumpped commits.
+- **Creativity**:
+  - If you do not know how to complete a task in Python, for example, but you do know how to complete the task using another tool, like Excel, Carto, or ArcGIS, please feel free to use the tool you know to complete the task.  
+
 
 ## Table of Content
 
@@ -44,8 +47,6 @@ Your code interview will be evaluated based on your repo or folder, so make sure
   - [Task 2: Data Aggregation](#task-2-data-aggregation)
   - [Task 3: Data Visualization](#task-3-data-visualization)
   - [Task 4: Spatial Data Processing](#task-4-spatial-data-processing)
-  - [Task 5: SQL](#task-5-sql)
-  - [Task 6: Spatial SQL](#task-6-spatial-sql)
 - [Resources](#resources)
 
 ## Introduction
