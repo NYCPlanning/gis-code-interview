@@ -13,7 +13,7 @@ If you've used GitHub and would like to demostrate your GitHub skills, start thi
 > ⚠️ Note: **the repo has to be <ins>private</ins>, otherwise you will be automatically <ins>disqualified</ins>**. Also we will check your commit timestamp to only account for the first 48 hours of coding activities.
 
 **2) Zipped folder**
-If you have not used GitHub before or are unfarmiliar with it, that's okay.  Please store your source data, files, and outputs in a folder, zip it up, and email the zipped folder to Matt (mcroswe @ planning.nyc.gov).
+If you have not used GitHub before or are unfarmiliar with it, that's okay.  Please store your source data, files, outputs and documentation/readme in a folder, zip it up, and email the zipped folder to Matt (mcroswe @ planning.nyc.gov).
 
 ## What we are looking for
 
@@ -36,7 +36,7 @@ Your code interview will be evaluated based on your repo or folder, so make sure
   - Feel free to open up issues for yourself / make pull requests and etc so that your code progress is captured and documented.
   - We highly **discourage** lumpped commits.
 - **Creativity**:
-  - If you do not know how to complete a task in Python, for example, but you do know how to complete the task using another tool, like Excel, Carto, or ArcGIS, please feel free to use the tools you know to complete the task.  
+  - If you do not know how to complete a task in Python, for example, but you do know how to complete the task using another tool, like Excel, Carto, or ArcGIS, please feel free to use the tools you know to complete the task and document what was used in the readme file.  
 
 
 ## Table of Content
