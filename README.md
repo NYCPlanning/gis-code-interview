@@ -36,7 +36,7 @@ Your code interview will be evaluated based on your repo or folder, so make sure
   - Feel free to open up issues for yourself / make pull requests and etc so that your code progress is captured and documented.
   - We highly **discourage** lumpped commits.
 - **Creativity**:
-  - If you do not know how to complete a task in Python, for example, but you do know how to complete the task using another tool, like Excel, Carto, or ArcGIS, please feel free to use the tools you know to complete the task and document what tools were used in the readme file.  
+  - If you do not know how to complete a task in Python, for example, but you do know how to complete the task using another tool, like Excel, Carto, or ArcGIS, please feel free to use the tools you know to complete the task and document what tools were used, and your methodology, in the readme file.  
 
 
 ## Table of Content
