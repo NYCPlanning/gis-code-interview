@@ -2,7 +2,7 @@
 
 ## 👋 Hi there
 
-Welcome to the GIS team's code interview! This small data challenge is designed to help us evaluate and for you to showcase your skills in data processing, python or another coding language, GitHub, and/or geospatial data processing. The challenge will go from easy to difficult.  There's no preassure to finish all the tasks; just try your best and get as far as you can!
+Welcome to the GIS team's code interview! This small data challenge is designed to help us evaluate and for you to showcase your skills in data processing, python or another coding language, GitHub, and/or geospatial data processing. The challenge will go from easy to difficult.  There's no pressure to finish all the tasks; just try your best and get as far as you can! Please do all your work within a 48 hour period.
 
 ## Getting started
 
@@ -36,7 +36,7 @@ Your code interview will be evaluated based on your repo or folder, so make sure
 - **Project Management (GitHub specific)**:
   - We want to see how you manage a multi-part project and how you break down the tasks.
   - Feel free to open up issues for yourself / make pull requests and etc so that your code progress is captured and documented.
-  - We highly **discourage** lumpped commits.
+  - We highly **discourage** lumped commits.
 - **Creativity**:
   - If you do not know how to complete a task in Python, for example, but you do know how to complete the task using another tool, like Excel, Carto, or ArcGIS, please feel free to use the tools you know to complete the task and document what tools were used, and your methodology, in the readme file.  
 
@@ -56,7 +56,7 @@ We love the NYC 311 service and the open data products that come with it. In thi
 
 ### Task 1: Data Download
 
-Download all service request records created in the **last week** (7 days) and has **HPD** as the responding agency, and store the data in a csv named `raw.csv` in a folder called `data`.
+Download all service request records created in the **last week** (7 days) that have **HPD** as the responding agency, and store the data in a csv named `raw.csv` in a folder called `data`.
 You can do this by 1) writing a python script/notebook or 2) manually filtering and downloading the data using the Open Data tools.
 
 ### Task 2: Data Aggregation
@@ -77,7 +77,7 @@ Create a multi-line plot to show the total service request counts by `created_da
 
 Naturally, in the GIS team we work with a lot of spatial data and we enhance datasets with geospatial attributes, such as point locations and administrative boundaries. To help us better understand the data from **Task 1**, we would like you to join the initial raw data to the **[2020 NTA (Neighborhood Tabulation Area) boundaries](https://www1.nyc.gov/site/planning/data-maps/open-data/census-download-metadata.page)** and create a choropleth map of 7 day total count by NTA of a specific `complaint_type` of your choice.
 
-Depending on how you generate the map, you can store the map as a `.png` or `.html` under the `data` folder.
+Depending on how you generate the map, you can store the map as a `.png` or `.html` under the `data` folder. Let us know if you do not have access to any mapping software.
 
 ## Resources
 
