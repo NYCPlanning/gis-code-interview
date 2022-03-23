@@ -19,7 +19,7 @@ If you have not used GitHub before or are unfarmiliar with it, that's okay.  Ple
 
 ## What we are looking for
 
-Your code interview will be evaluated based on your repo or folder, so make sure all files are stored in your repo or folder. Specifically we are looking at:
+You will be evaluated based on your repo or folder, so make sure all files are stored in your repo or folder. Specifically we are looking at:
 
 - **Project scafolding**: How you name, manage, and organize your files.
 - **Reproducibility**:
