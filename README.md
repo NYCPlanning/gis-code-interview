@@ -9,10 +9,12 @@ Welcome to the GIS team's code interview! This small data challenge is designed 
 There are two ways for you to get started and submit your results for this challenge:
 
 **1) GitHub**
+
 If you've used GitHub and would like to demostrate your GitHub skills, start this challenge by creating a new **private** repo under your github username. We would like you to include all the code, notes, visualizations, and data inside of the repo. When you are done with the challenge, please provide read access to your repo by inviting `@SashaWeinstein`, `@mbh329`, `@AmandaDoyle`, `@croswell81`, and `@td928`.
-> ⚠️ Note: **the repo has to be <ins>private</ins>, otherwise you will be automatically <ins>disqualified</ins>**. Also we will check your commit timestamp to only account for the first 48 hours of coding activities.
+> ⚠️ Note: **the repo has to be <ins>private</ins>, otherwise you will be automatically <ins>disqualified</ins>**.
 
 **2) Zipped folder**
+
 If you have not used GitHub before or are unfarmiliar with it, that's okay.  Please store your source data, files, outputs and documentation/readme in a folder, zip it up, and email the zipped folder to Matt (mcroswe @ planning.nyc.gov).
 
 ## What we are looking for
