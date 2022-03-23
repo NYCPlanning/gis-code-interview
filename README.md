@@ -81,4 +81,4 @@ Depending on how you generate the map, you can store the map as a `.png` or `.ht
 
 ## Resources
 
-- Reach out to Sasha (aweinstein @ planning.nyc.gov) if you have any questions. We love people who ask questions.
+- Reach out to Matt (mcroswe @ planning.nyc.gov) if you have any questions. We love people who ask questions.
