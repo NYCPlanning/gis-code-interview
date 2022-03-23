@@ -1,8 +1,8 @@
-# GIS Team Code Interview
+# GIS Team Data Challenge
 
 ## 👋 Hi there
 
-Welcome to the GIS team's code interview! This small data challenge is designed to help us evaluate and for you to showcase your skills in data processing, python or another coding language, GitHub, and/or geospatial data processing. The challenge will go from easy to difficult.  There's no pressure to finish all the tasks; just try your best and get as far as you can! Please do all your work within a 48 hour period.
+Welcome to the GIS team's Data Challenge! This small data challenge is designed to help us evaluate and for you to showcase your skills in data processing, python or another coding language, GitHub, and/or geospatial data processing. The challenge will go from easy to difficult.  There's no pressure to finish all the tasks; just try your best and get as far as you can! Please do all your work within a 48 hour period.
 
 ## Getting started
 
