@@ -6,7 +6,7 @@ Welcome to the GIS team's code interview! This small data challenge is designed 
 
 ## Getting started
 
-There are two ways for you to get started and submit your results for this chanllenge:
+There are two ways for you to get started and submit your results for this challenge:
 
 **1) GitHub**
 If you've used GitHub and would like to demostrate your GitHub skills, start this challenge by creating a new **private** repo under your github username. We would like you to include all the code, notes, visualizations, and data inside of the repo. When you are done with the challenge, please provide read access to your repo by inviting `@SashaWeinstein`, `@mbh329`, `@AmandaDoyle`, `@croswell81`, and `@td928`.
