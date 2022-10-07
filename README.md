@@ -63,7 +63,7 @@ You can do this by 1) writing a python script/notebook or 2) manually filtering 
 
 Create a time series table based on the `data/raw.csv` file we created from **Task 1** that has the following fields
 
-- `created_date_hour`: the timestap of request creation by date and hour
+- `created_date_hour`: the timestamp of request creation by date and hour
 - `complaint_type`: the type of the complaint
 - `count`: the count of service requests by `complaint_type` by `created_date_hour`
 
