@@ -2,7 +2,7 @@
 
 ## 👋 Hi there
 
-Welcome to the GIS team's Data Challenge! This small data challenge is designed to help us evaluate and for you to showcase your skills in data processing, python or another coding language, GitHub, and/or geospatial data processing. The challenge will go from easy to difficult.  There's no pressure to finish all the tasks; just try your best and get as far as you can! Please do all your work within a 48 hour period.
+Welcome to the GIS team's Data Challenge! This small data challenge is designed to help us evaluate and for you to showcase your skills in data processing, python or another coding language, GitHub, and/or geospatial data processing. The challenge will go from easy to difficult.  There's no pressure to finish all the tasks; just try your best and get as far as you can! 
 
 ## Getting started
 
@@ -15,7 +15,7 @@ If you've used GitHub and would like to demostrate your GitHub skills, start thi
 
 **2) Zipped folder**
 
-If you have not used GitHub before or are unfarmiliar with it, that's okay.  Please store your source data, files, outputs and documentation/readme in a folder, zip it up, and email the zipped folder to Matt (mcroswe @ planning.nyc.gov).
+If you have not used GitHub before or are unfarmiliar with it, that's okay.  Please store your source data, files, outputs and documentation/readme in a folder, zip it up, and email the zipped folder to Matt (mcroswe@planning.nyc.gov).
 
 ## What we are looking for
 
