@@ -2,7 +2,7 @@
 
 ## 👋 Hi there
 
-Welcome to the GIS team's Data Challenge! This small data challenge is designed to help us evaluate and for you to showcase your skills in data processing, python or another coding language, GitHub, and/or geospatial data processing. The challenge will go from easy to difficult.  There's no pressure to finish all the tasks; just try your best and get as far as you can! 
+Welcome to the GIS team's Data Challenge! This small data challenge is designed to help us evaluate and for you to showcase your skills in geospatial data processing and project management. You can take an automated approach with python or another coding language, or a manual approach using GIS tools you have access to. The use of GitHub is completely optional. The challenge will go from easy to difficult.  There's no pressure to finish all the tasks; just try your best and get as far as you can! 
 
 ## Getting started
 
