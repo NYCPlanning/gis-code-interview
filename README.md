@@ -10,7 +10,7 @@ There are two ways for you to get started and submit your results for this chall
 
 **1) Zipped folder**
 
-If you have not used GitHub before or are unfarmiliar with it, that's okay.  Please store your source data, files, outputs and documentation/readme in a folder, zip it up, and email the zipped folder to Matt (mcroswe@planning.nyc.gov) and Casey (csmith@planning.nyc.gov).
+If you have not used GitHub before or are unfarmiliar with it, that's okay.  Please store your source data, files, outputs and documentation/readme in a folder, zip it up, and email the zipped folder to Matt (mcroswe@planning.nyc.gov), Casey (csmith@planning.nyc.gov), and Jack (jrosacker@planning.nyc.gov).
 
 **2) GitHub**
 
@@ -82,4 +82,4 @@ Depending on how you generate the map, you can store the map as a `.png` or `.ht
 
 ## Resources
 
-- Reach out to both Matt (mcroswe@planning.nyc.gov) and Casey (csmith@planning.nyc.gov) if you have any questions. We love people who ask questions.
+- Reach out to both Matt (mcroswe@planning.nyc.gov), Casey (csmith@planning.nyc.gov), and Jack (jrosacker@planning.nyc.gov) if you have any questions. We love people who ask questions.
