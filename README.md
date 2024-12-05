@@ -2,7 +2,7 @@
 
 ## 👋 Hi there
 
-Welcome to the GIS team's Data Challenge! This small data challenge is designed to help us evaluate and for you to showcase your skills in geospatial data processing and project management. You can take an automated approach with python or another coding language, or a manual approach using GIS tools you have access to. The use of GitHub is completely optional. The challenge will go from easy to difficult.  There's no pressure to finish all the tasks; just try your best and get as far as you can! 
+Welcome to the GIS team's Data Challenge! This small data challenge is designed to help us evaluate and for you to showcase your skills in geospatial data processing and project management. You can take an automated approach with python or another coding language, or a manual approach using GIS tools you have access to. The use of GitHub is optional. The challenge will go from easy to difficult.  There's no pressure to finish all the tasks; just try your best and get as far as you can! 
 
 ## Getting started
 
@@ -10,11 +10,11 @@ There are two ways for you to get started and submit your results for this chall
 
 **1) Zipped folder**
 
-If you have not used GitHub before or are unfarmiliar with it, that's okay.  Please store your source data, files, outputs and documentation/readme in a folder, zip it up, and email the zipped folder to Matt (mcroswe@planning.nyc.gov), Casey (csmith@planning.nyc.gov), and Jack (jrosacker@planning.nyc.gov).
+If you have not used GitHub before or are unfamiliar with it, that's okay.  Please store your source data, files, outputs and documentation/readme in a folder, zip it up, and email the zipped folder to Matt (mcroswe@planning.nyc.gov), Casey (csmith@planning.nyc.gov), and Jack (jrosacker@planning.nyc.gov).
 
 **2) GitHub**
 
-If you've used GitHub and would like to demostrate your GitHub skills, start this challenge by creating a new **private** repo under your github username. We would like you to include all the code, notes, visualizations, and data inside of the repo. When you are done with the challenge, please provide read access to your repo by inviting `@caseysmithpgh`, `@jackrosacker`, `@croswell81`, and `@AmandaDoyle`.
+If you've used GitHub and would like to demonstrate your GitHub skills, start this challenge by creating a new **private** repo under your github username. We would like you to include all the code, notes, visualizations, and data inside of the repo. When you are done with the challenge, please provide read access to your repo by inviting `@caseysmithpgh`, `@jackrosacker`, `@croswell81`, and `@AmandaDoyle`.
 > ⚠️ Note: **the repo has to be <ins>private</ins>, otherwise you will be automatically <ins>disqualified</ins>**.
 
 
@@ -22,7 +22,7 @@ If you've used GitHub and would like to demostrate your GitHub skills, start thi
 
 You will be evaluated based on your repo or folder, so make sure all files are stored in your repo or folder. Specifically we are looking at:
 
-- **Project scafolding**: How you name, manage, and organize your files.
+- **Project scaffolding**: How you name, manage, and organize your files.
 - **Documentation**:
   - A comprehensive `README` document on anything that we should know about how you completed the tasks.
   - Clear instructions on process steps or commands to run code (optional), and what to expect.
