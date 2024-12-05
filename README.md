@@ -72,7 +72,7 @@ Store this table in a csv under the `data` folder with a csv file name of your c
 
 ### Task 3: Data Visualization
 
-Create a multi-line plot to show the total service request counts by `created_date_hour` for each `complaint_type`. Make sure you store the image of the plot in the `data` folder as a `.png` file.  
+Create a multi-line plot to show the total service request counts by `created_date_hour` for each `complaint_type`. Make sure you store the image of the plot in the `data` folder as a `.png` or `.html` file.  
 
 ### Task 4: Spatial data processing
 
